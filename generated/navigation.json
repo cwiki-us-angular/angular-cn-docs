@@ -707,9 +707,14 @@
       "url": "https://ng-china.org"
     },
     {
+      "title": "Angular 中文 @ CWIKI.US",
+      "tooltip": "CWIKI.US 上的互助问答",
+      "url": "https://www.cwiki.us/display/AngularZH"
+    },
+    {
       "title": "互助问答",
-      "tooltip": "github 上的中文互助问答区",
-      "url": "https://github.com/ng-docs/ng-docs.github.io/issues"
+      "tooltip": "CWIKI.US 上的互助问答",
+      "url": "https://www.cwiki.us/display/AngularZH/questions/all"
     },
     {
       "title": "官方 Material 组件库",
@@ -730,6 +735,11 @@
       "url": "https://flutter-io.cn/",
       "tooltip": "Flutter 中文文档站",
       "title": "友站：Flutter 中文"
+    },
+    {
+      "url": "https://src.ossez.com/angular/angular-cn",
+      "tooltip": "SRC.OSSEZ.COM",
+      "title": "中文源代码"
     },
     {
       "url": "guide/change-log",
