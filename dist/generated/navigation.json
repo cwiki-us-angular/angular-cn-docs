@@ -873,12 +873,12 @@
     "prerelease": [
       "local"
     ],
-    "build": "sha.e732a172d8",
+    "build": "sha.96c6a65f53",
     "version": "8.0.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "8.0.0-local+sha.e732a172d8",
+    "full": "8.0.0-local+sha.96c6a65f53",
     "branch": "master",
-    "commitSHA": "e732a172d83938224d3c2edd49abe45a88bec8b3"
+    "commitSHA": "96c6a65f53c782824aaea6fed6b023a366b10070"
   }
 }
