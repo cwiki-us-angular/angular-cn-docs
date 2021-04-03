@@ -1293,12 +1293,12 @@
     "prerelease": [
       "local"
     ],
-    "build": "sha.895f2fe818",
+    "build": "sha.e8ea7d562c",
     "version": "12.0.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "12.0.0-local+sha.895f2fe818",
+    "full": "12.0.0-local+sha.e8ea7d562c",
     "branch": "master",
-    "commitSHA": "895f2fe818d5ed15eca7de71144956aa475b0f6f"
+    "commitSHA": "e8ea7d562c0325dfcf91525b34faea303d3f98d7"
   }
 }
