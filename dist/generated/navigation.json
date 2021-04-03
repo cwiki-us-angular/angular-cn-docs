@@ -1098,7 +1098,7 @@
             {
               "url": "guide/contributors-guide-overview",
               "title": "Overview",
-              "tooltip": "Provides an overview of how to contribute to Angular's documentation"
+              "tooltip": "Provides an overview of how to contribute to Angular's documentation."
             },
             {
               "url": "guide/reviewing-content",
@@ -1109,6 +1109,11 @@
               "url": "guide/updating-search-keywords",
               "title": "Updating search keywords",
               "tooltip": "Help users find the content they need by adding additional search keywords."
+            },
+            {
+              "url": "guide/updating-content-github-ui",
+              "title": "Updating content using GitHub UI",
+              "tooltip": "Update topics in the browser through the GitHub user interface."
             },
             {
               "url": "guide/docs-style-guide",
@@ -1281,19 +1286,19 @@
       "includePrerelease": false
     },
     "loose": false,
-    "raw": "12.0.0-next.6",
+    "raw": "12.0.0-next.7",
     "major": 12,
     "minor": 0,
     "patch": 0,
     "prerelease": [
       "local"
     ],
-    "build": "sha.5e46901ffc",
+    "build": "sha.895f2fe818",
     "version": "12.0.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "12.0.0-local+sha.5e46901ffc",
+    "full": "12.0.0-local+sha.895f2fe818",
     "branch": "master",
-    "commitSHA": "5e46901ffcaecfef42ad0bae8eb2ff1b84371c0f"
+    "commitSHA": "895f2fe818d5ed15eca7de71144956aa475b0f6f"
   }
 }

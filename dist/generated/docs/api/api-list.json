@@ -613,8 +613,8 @@
         "name": "xhrfactory",
         "title": "XhrFactory",
         "path": "api/common/http/XhrFactory",
-        "docType": "class",
-        "stability": "stable",
+        "docType": "type-alias",
+        "stability": "deprecated",
         "securityRisk": false
       }
     ]
